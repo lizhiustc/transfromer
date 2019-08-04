@@ -17,4 +17,4 @@ print(hello_embed)
 print(hello_idx)
 print([word_to_ix['hello']])
 
-
+#   from  website     https://ptorch.com/news/11.html
